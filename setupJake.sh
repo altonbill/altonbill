@@ -10,7 +10,7 @@ echo 'Done.'
 
 # install apps from software-repos
 echo 'Installing favourite applications'
-sudo apt-get install -y git-core emacs xclip htop python3-pip nettools gnuradio traceroute texlive-latex-recommended
+sudo apt-get install -y git-core emacs xclip htop python3-pip nettools gnuradio traceroute
 echo 'Done.'
 
 # Configure git
